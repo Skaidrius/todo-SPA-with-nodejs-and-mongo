@@ -5,3 +5,5 @@
 # RESTful routes
 
 # coded along via Coolt Steele from Advanded Web Developer Bootcamp Udemy course 
+
+# for start - node index.js or nodemon index.js
