@@ -1,9 +1,10 @@
 # Todo APP with Node 
 
-## Build todo API ('/api/todos') and manipulate it (create, update, delete) with SPA.
-## Build on NodeJS,  Express, MongoDB, Jquery with AJAX calls.
-## RESTful routes
+#### Build todo API ('/api/todos') and manipulate it (create, update, delete) with SPA.
+##### Build on NodeJS,  Express, MongoDB, Jquery with AJAX calls.
 
-### coded along via Coolt Steele from Advanded Web Developer Bootcamp Udemy course 
+RESTful routes
 
-## for start - node index.js or nodemon index.js
+coded along via Coolt Steele from Advanded Web Developer Bootcamp Udemy course 
+
+##### for start - node index.js or nodemon index.js
